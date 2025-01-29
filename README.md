@@ -57,3 +57,4 @@ Sinta-se à vontade para contribuir com melhorias ou correções!
 3. Commit suas alterações: `git commit -am 'Adicionando uma nova funcionalidade'`.
 4. Push para a branch: `git push origin minha-alteracao`.
 5. Abra um Pull Request.
+```
