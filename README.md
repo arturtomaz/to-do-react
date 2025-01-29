@@ -1,4 +1,4 @@
-```markdown
+
 # To-Do List React
 
 Este é um aplicativo de **To-Do List** desenvolvido com **React** e **Vite**, projetado para adicionar, visualizar e excluir tarefas de forma simples e eficiente.
