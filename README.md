@@ -12,7 +12,7 @@ Este é um aplicativo de **To-Do List** desenvolvido com **React** e **Vite**, p
 
 ## Demonstração
 
-Confira o aplicativo em funcionamento: [To-Do React Demo](https://arturtomaz-to-do-react.vercel.app)
+Confira o aplicativo em funcionamento: [To-Do React](https://arturtomaz-to-do-react.vercel.app)
 
 ## Como rodar o projeto localmente
 
@@ -57,4 +57,3 @@ Sinta-se à vontade para contribuir com melhorias ou correções!
 3. Commit suas alterações: `git commit -am 'Adicionando uma nova funcionalidade'`.
 4. Push para a branch: `git push origin minha-alteracao`.
 5. Abra um Pull Request.
-```
